@@ -9,7 +9,7 @@ En mi tiempo libre me gusta hacer:
 - Montar Pcs
   [Aqui subi fotos de dos PCs que hice.](https://docs.google.com/document/d/1ue7QGJVh5ZqQ7WfSroaK9PZIk3YSQ3P1TvjZHwIMwo4/edit?usp=sharing)
 
-#Datos personales
+# Datos personales
 Nombre: Jugraj
 
 Ubicación: Barcelona, Catalunya
@@ -18,7 +18,7 @@ Email:jugrajj@ElPuig.xeill.net
 
 Edad: 19
 
-#Aficiones y intereses
+# Aficiones y intereses
 
 *Videojuegos
 
@@ -28,10 +28,10 @@ Edad: 19
 
 *Programación
 
-#Educación
+# Educación
 -Educación secundaria obligatoria (ESO) Institut Torrent de les bruixes (2021-2025)
 
 -Actualmente en un Ciclo formativo de grado medio de Informatica Institut Puig Castellar (cursandolo actualmente)
 
-#Experiencia laboral
+# Experiencia laboral
 *Creación de pagina web -Empresa ADDIS (2024) Creación de páginas web sencillas con HTML y CSS.
