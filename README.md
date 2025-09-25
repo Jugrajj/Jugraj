@@ -7,7 +7,7 @@ En mi tiempo libre me gusta hacer:
 - Ver youtube / Netflix
 
 - Montar Pcs
-![Foto PC](Foto1.png)
+![Foto PC](foto1.png)
 ![Foto PC 2](foto2.png).
 
   
