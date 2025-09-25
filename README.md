@@ -7,8 +7,10 @@ En mi tiempo libre me gusta hacer:
 - Ver youtube / Netflix
 
 - Montar Pcs
-  [Aqui subi fotos de dos PCs que hice.](https://docs.google.com/document/d/1ue7QGJVh5ZqQ7WfSroaK9PZIk3YSQ3P1TvjZHwIMwo4/edit?usp=sharing)
 
+<img width="1080" height="2340" alt="Screenshot_20250919_142122_Gallery (1)" src="https://github.com/user-attachments/assets/94a61860-3271-49e4-8662-d4e08bd0e680" />
+
+  
 # Datos personales
 Nombre: Jugraj
 
@@ -35,3 +37,5 @@ Edad: 19
 
 # Experiencia laboral
 *Creación de pagina web -Empresa ADDIS (2024) Creación de páginas web sencillas con HTML y CSS.
+
+
