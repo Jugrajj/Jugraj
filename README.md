@@ -8,7 +8,7 @@ En mi tiempo libre me gusta hacer:
 
 - Montar Pcs
 
-<img width="1080" height="2340" alt="Screenshot_20250919_142122_Gallery (1)" src="https://github.com/user-attachments/assets/94a61860-3271-49e4-8662-d4e08bd0e680" />
+<img width="720" height="1080" alt="Screenshot_20250919_142122_Gallery (1)" src="https://github.com/user-attachments/assets/94a61860-3271-49e4-8662-d4e08bd0e680" />
 
   
 # Datos personales
