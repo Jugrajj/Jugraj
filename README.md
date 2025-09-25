@@ -7,9 +7,10 @@ En mi tiempo libre me gusta hacer:
 - Ver youtube / Netflix
 
 - Montar Pcs
+<img width="394" height="559" alt="foto22" src="https://github.com/user-attachments/assets/25818784-4b89-48a6-9b46-0b634ad73c1b" />
 
-<img width="480" height="720" alt="Image" src="https://github.com/user-attachments/assets/0da3c88f-d2a3-4362-b9b2-c27b41188eae" />a
-<img width="480" height="720" alt="Image" src="https://github.com/user-attachments/assets/8b7c034a-af95-43ec-a6eb-05fddacaf4b9" />
+<img width="394" height="559" alt="foto11" src="https://github.com/user-attachments/assets/fe680945-8c5f-4ac3-97f2-d47818afdace" />
+
 
   
 # Datos personales
